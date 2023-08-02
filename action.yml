@@ -11,7 +11,7 @@ inputs:
 
   urls:
     description: "List of urls to run templates"
-    required: false
+    required: true
 
   templates:
     description: "Templates input file/files to check across hosts"
